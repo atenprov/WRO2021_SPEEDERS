@@ -1,4 +1,4 @@
 Vehicle's photos
 ====
 
-This directory must contain 6 photos of the vehicle (from every side, from top and bottom)
+The Vehicle was constructed using the Lego Ev3 Mindstorms educational set.

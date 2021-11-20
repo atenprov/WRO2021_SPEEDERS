@@ -23,4 +23,10 @@ This repository contains engineering materials of a self-driven vehicle's model 
 
 ## Introduction
 
-This is still a work in progress.... Documentation, source code, schemes and models will be uploaded soon. 
+               WRO FUTURE ENGINNERS 2021
+
+The speeders.
+Our Robot was constructed with the Lego Mindstorms ev3 educational set, and our code was developed in lab view ev3 software development platform. The design of our vehicle includes 2 lego bricks positioned at the top of our robot, connected together using the LEGO Original Electric USB to mini USB cable based on the daisy chain connection. 
+There are 3 Ultrasonic sensors used for distance detection among the walls of the race field. Two of them, positioned on the left and the right side of the Robot, are plugged on the respective main  brick’s ports. The third one is on the front side of the robot connected on the secondary brick’s port. A color sensor, connected on the main brick is used in order to identify the color lines positioned on the corner sections of the field track.  
+A pixy camera is in gaged in order to identify the traffic lights that are randomly positioned on the track while navigating through the race field.
+
